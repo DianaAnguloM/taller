@@ -23,14 +23,13 @@ const Form = () =>{
         <>
             <form onSubmit={e => e.preventDefault()}>
                 <label>Agregar tarea</label><br/>
-                <input type="list" name="todo" onChange={handleChange}/>
-                <datalist>
+                <select name="producto" onChange={handleChange}>
                     <option> 1</option>
                     <option> 1</option>
                     <option> 1</option>
                     <option> 1</option>
                     <option> 1</option>
-                </datalist>
+                </select>
                 <br/>
                 <label>Cantidad </label>
                 <input type="number" name="cantidad" onChange={handleCantidadChange}/>
