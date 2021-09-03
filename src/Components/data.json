@@ -1,0 +1,42 @@
+[
+    {"id":"1",
+        "Nombre":"Manzana",
+        "precio":"0.50"
+    },
+    {"id":"2",
+        "Nombre":"Cafe LO NUESTRO 400G",
+        "precio":"3.50"
+    },
+    {"id":"3",
+        "Nombre":"Ambiental Air Wick",
+        "precio":"2.26"
+    },
+    {"id":"4",
+        "Nombre":"Anti grasa Brasso",
+        "precio":"2.99"
+    },
+    {"id":"5",
+        "Nombre":"Pedigree cachorro 100G",
+        "precio":"0.99"
+    },
+    {"id":"6",
+        "Nombre":"Pedigree adulto 100G",
+        "precio":"0.99"
+    },
+    {"id":"7",
+        "Nombre":"Alimento para perico 800G",
+        "precio":"2.79"
+    },
+    {"id":"8",
+        "Nombre":"Leche sula 946ML",
+        "precio":"2.89"
+    },
+    {"id":"9",
+        "Nombre":"Cereal",
+        "precio":"1.83"
+    },
+    {"id":"10",
+        "Nombre":"Aceite de oliva 750ML",
+        "precio":"2.09"
+    }
+]

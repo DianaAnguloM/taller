@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+import React from 'react';
 
+import Form from "./Components/form";
 function App() {
   return (
     <div className="App">
